@@ -1,0 +1,2 @@
+This program is run on the HPC Hudson server, which requires a bit more effort to set up: if you want to use my SLURM file, follow the directions to set up your virtual environment exactly as on https://sites.google.com/nyu.edu/nyu-hpc/hpc-systems/greene/software/singularity-with-miniconda?authuser=0
+Once you've done this, you should make sure that torch, pandas, and numpy are installed in your miniconda environment.
